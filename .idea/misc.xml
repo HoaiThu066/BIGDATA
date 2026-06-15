@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Black">
+<<<<<<< HEAD
     <option name="sdkName" value="Python 3.11 (BIGDATA_G16)" />
   </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.11 (BIGDATA_G16)" project-jdk-type="Python SDK" />
+=======
+    <option name="sdkName" value="Python 3.12 (BIGDATA)" />
+  </component>
+>>>>>>> 530191517259e7295f033ac6c26398a01b9289f7
 </project>
