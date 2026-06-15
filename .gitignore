@@ -1,0 +1,6 @@
+.venv/
+*.csv
+*.parquet
+*.zip
+*.log
+.env
