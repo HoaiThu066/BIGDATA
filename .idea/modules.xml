@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/.idea/BIGDATA_G16.iml" filepath="$PROJECT_DIR$/.idea/BIGDATA_G16.iml" />
+=======
       <module fileurl="file://$PROJECT_DIR$/.idea/BIGDATA.iml" filepath="$PROJECT_DIR$/.idea/BIGDATA.iml" />
+>>>>>>> 530191517259e7295f033ac6c26398a01b9289f7
     </modules>
   </component>
 </project>
